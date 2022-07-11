@@ -16,4 +16,5 @@ But I guess I should continue to type the code for now to ---practice---
 And this little green bit at the side that shows me the new bits that    haven't been committed, that's very nice   
 Anyway I'm rambling now -- time to make a real genuine website!  
 Practicing Git commit messages here...   
-Is this how you do a multi-line Git commit message..? 
+Is this how you do a multi-line Git commit message..?   
+Is this better??
