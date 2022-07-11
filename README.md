@@ -15,3 +15,4 @@ And we have the clever bits on the side bar that let me stage and commit without
 But I guess I should continue to type the code for now to ---practice---  
 And this little green bit at the side that shows me the new bits that    haven't been committed, that's very nice   
 Anyway I'm rambling now -- time to make a real genuine website!  
+Practicing Git commit messages here... 
