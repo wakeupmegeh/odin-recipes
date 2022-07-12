@@ -1,0 +1,47 @@
+h1 {
+    font-family: "Brush Script MT", cursive;
+    font-size:70px;
+    color:rgb(46, 116, 68);
+    text-align:center;
+}
+
+.title-img {
+    height:350px;
+    width:600px;
+
+}
+
+.recipeimg {
+    height:auto;
+    width: 500px;
+}
+
+.recipediv {
+    text-align:center;
+}
+
+.main-text.header {
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(46, 116, 68);
+}
+
+ .main-text{
+    font-family:"Veranda", sans-serif;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img {
+    flex-basis: 40%;
+}
+
+.text {
+    font-size: 30px;
+    font-family: "Courier New", monspace;
+    padding-left: 20px;
+}
